@@ -1,16 +1,30 @@
-# shecom
+# SHE COMMAND – A Women Safety App
 
-A new Flutter project.
+SHE COMMAND is a smart women safety mobile application designed to provide immediate assistance during emergencies through real-time communication and location tracking.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- 📍 Live Location Sharing  
+  Shares real-time GPS location with trusted contacts when SOS is triggered.
 
-A few resources to get you started if this is your first Flutter project:
+- 🗺 Safe / Unsafe Area Detection  
+  Identifies and displays safe and high-risk areas to help users make informed decisions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🚨 One-Tap SOS Emergency Alert  
+  Instantly sends emergency notifications to trusted contacts with location details.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🎥 Automatic Audio & Video Recording  
+  Automatically starts recording audio/video during emergency situations for evidence and safety purposes.
+
+## Tech Stack
+- Flutter
+- Dart
+- Firebase 
+- Google Maps API 
+
+## Objective
+To enhance women’s safety by providing a fast, reliable, and technology-driven emergency response system.
+
+---
+
+
