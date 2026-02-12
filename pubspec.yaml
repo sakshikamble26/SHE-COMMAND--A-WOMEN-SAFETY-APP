@@ -1,0 +1,39 @@
+name: shecom
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🌍 Core packages
+  provider: ^6.1.5
+  intl: ^0.20.2
+  cupertino_icons: ^1.0.8
+
+  # 📍 Location & permissions
+  geolocator: ^10.1.0
+  geocoding: ^2.2.2
+  permission_handler: ^11.0.1
+
+  # 💬 Sending alerts / launching apps
+  url_launcher: ^6.3.0
+  flutter_sms: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment later if you add custom images/icons
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
